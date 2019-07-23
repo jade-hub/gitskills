@@ -1,4 +1,4 @@
-this is a file under gitskills.git
+this is a file under the gitskills.git
 
 
 branch dev updated
