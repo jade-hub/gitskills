@@ -2,3 +2,5 @@ this is a file under gitskills.git
 
 
 branch dev updated
+
+alter by branch master;
